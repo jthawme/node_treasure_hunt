@@ -13,7 +13,7 @@ console.log(`
     of this folder. When you see the other files you can try work out which file to look at
     ---next---
 
-    Remember, to run javascript files type: 'node [FILENAME]' and hit enter
+    Remember, to run .js files type: 'node [FILENAME]' and hit enter
 
 
 `)

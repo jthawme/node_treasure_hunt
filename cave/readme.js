@@ -1,7 +1,7 @@
 console.log(`
 
 
-    Very well done, expert 'cd' and 'ls'.
+    Very well done, expert use of 'cd' and 'ls'.
 
     So now you know everything you need to find the treasure.
 

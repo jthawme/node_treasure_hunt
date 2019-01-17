@@ -2,9 +2,9 @@ console.log(`
 
 
     WOOF! You need a password to get the treasure.
-    Maybe its... WOOF
+    Maybe it is... WOOF
 
-    Thats what I would use anyway
+    That's what I would use anyway
                    /
 
                 __
