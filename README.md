@@ -22,21 +22,25 @@ and there are different command line programs depending what machine you use.
 On Macs there is 'Terminal' and on Windows there is WINDOWS-STUFF-TO-DO.
 
 If this the first time you seeing these, they are kind of the things that 
-films use to make people look like _hackers_.
+films use to make people look like _hackers_. They are usually black screens
+with very little on them. If you start typing you will see the text you type
+appear on the screen.
 
 ## How to begin
 
 ### Mac users
 
-To begin, find this folder in **Finder**. Open up terminal. You can do this 
-by opening _spotlight_ (cmd + spacebar) and typing 'Terminal' and it'll show up
-as a result.
+To begin, find the folder you downloaded in **Finder** (probably in Downloads, 
+called 'node_treasure_hunt').
+
+Open up terminal. You can do this by opening _spotlight_ (cmd + spacebar) and
+typing 'Terminal' and it'll show up as a result.
 
 Then from **Finder** drag this folder onto the terminal icon in your launch bar
-and it will open a terminal window at the position of this folder (this will 
-get explained further later).
+and it will open a terminal window for this folder (this will get explained 
+further later).
 
-Then type `node start.js`
+Then, in Terminal, type `node start.js` and press enter.
 
 ### Windows users
 
